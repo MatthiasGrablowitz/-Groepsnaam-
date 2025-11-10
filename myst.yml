@@ -1,12 +1,12 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Thermolab
+  title: -Groepsnaam-
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Xin Qi Huang
+    - name: Matthias Grablowitz
 
-  date: 2025-11-05
+  date: 2025-11-10
   github: https://matthiasgrablowitz.github.io/-Groepsnaam-/
 
 extends:
