@@ -7,7 +7,7 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://matthiasgrablowitz.github.io/-Groepsnaam-/
+  github: https://github.com/MatthiasGrablowitz/-Groepsnaam18-
 
 extends:
   - plugins.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://matthiasgrablowitz.github.io/-Groepsnaam-/
+      url: https://github.com/MatthiasGrablowitz/-Groepsnaam18-
